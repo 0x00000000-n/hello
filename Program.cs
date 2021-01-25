@@ -11,6 +11,7 @@ namespace hello
         static void Main(string[] args)
         {
 			Console.WriteLine(a - b);
+			Console.WriteLine(a + b);
         }
     }
 }
