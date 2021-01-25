@@ -10,7 +10,7 @@ namespace hello
     {
         static void Main(string[] args)
         {
-
+			int b = Int32.Parse(Console.ReadLine());
         }
     }
 }
