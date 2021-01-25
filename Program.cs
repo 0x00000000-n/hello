@@ -10,6 +10,7 @@ namespace hello
     {
         static void Main(string[] args)
         {
+			int a = Int32.Parse(Console.ReadLine());
 			Console.WriteLine(a - b);
 			Console.WriteLine(a + b);
 			Console.WriteLine(a / b);
